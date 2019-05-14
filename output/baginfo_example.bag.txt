@@ -1,0 +1,14 @@
+
+Number of topics in the bag: 12
+/rosout
+/turtle1/color_sensor
+/rosout
+/rosout
+/tf_static
+/turtle2/color_sensor
+/turtle1/pose
+/turtle2/pose
+/tf
+/tf
+/turtle2/cmd_vel
+/turtle1/cmd_vel

@@ -1,0 +1,21 @@
+{
+  "name": "ros_tool",
+  "version": "1.0.0",
+  "description": "ros files to csv and json",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ros"
+  ],
+  "author": "Divya Agarwal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-fileupload": "^1.0.0",
+    "json-2-csv": "^2.4.0",
+    "rosbag": "^1.3.1"
+  }
+}
